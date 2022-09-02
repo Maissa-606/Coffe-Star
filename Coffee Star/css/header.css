@@ -1,0 +1,215 @@
+body{
+    background-color: #D9BB96;
+}
+.row
+{
+   margin: 0%;
+   padding: 0%;
+}
+.col
+{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+.navbar
+{
+    background-color: #401014;
+  
+}
+
+.navbar-brand:hover
+{
+    color: #F29727;
+
+}
+.navbar-brand
+{
+    color: #D9BB96;
+    font-family: 'Lobster', cursive;
+
+}
+
+.nav-link:hover
+{
+    color: #D9BB96;
+
+}
+.nav-link
+{
+    color: #E6B740;
+    font-family: 'Lobster', cursive;
+
+}
+.navbar-toggler
+{
+    color: #e29e4b;
+    background-color: #D9BB96;
+}
+.navbar-toggler-icon
+{
+    background-color: #D9BB96;
+}
+.navbar-nav
+{
+    text-align: center;
+}
+.img
+{
+    width: 100%;
+
+}
+
+.div-coff
+{
+    margin: 0%;
+    padding: 0%;
+    position: relative;    /* para poder posicionar el texto de forma absoluta */
+    display: inline-block; /* para que solo ocupe el ancho de la imagen */
+}
+
+.row .txt1
+{
+    position: absolute;    /* posición absolute con respecto al padre */
+    margin-top: 4%;
+    margin-left: 10%;
+    width: 100%;
+    height: 100%;
+}
+.div-coff
+{
+    position: absolute;    /* posición absolute con respecto al padre */
+    margin-top: 4%;
+    margin-left: 10%;
+    width: 100%;
+    height: 100%;
+
+}
+.img-div
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.contenedor
+{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-encima
+{
+
+    position: absolute;
+    top: 10px;
+    margin: 0%;
+    padding: 0%;
+}
+.container-fluid .texto
+{
+    width: 100%;
+
+
+}
+
+.div-menu
+{
+    padding: 0%;
+    margin: 0%;
+    padding-top: 30px;
+    background-color: #D9BB96;
+    height: auto;
+
+}
+.card-body
+{
+    height: 10%;
+}
+
+.btn-outline-warning
+{
+    background-color: #401014;
+}
+
+
+.card
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+    color: #401014;
+
+}
+
+.div-destacable
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    z-index: 2;
+    background-color: #401014;
+}
+.h2-1
+{
+    color: #D9BB96;
+}
+
+.card-prod
+{
+    padding-top: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.card-title 
+{
+    color: #F29727;
+    font-family: 'Lobster', cursive;
+
+}
+
+.btn-comprar
+{
+    background-color: #e29e4b;
+    color: #401014;
+}
+h6
+{
+    color: #401014;
+    font-family: 'Titan One', cursive;
+}
+.btn-comprar:hover
+{
+
+    color: #e29e4b;
+    background-color: #401014;
+
+}
+p{
+    font-size: 15px;
+    font-family: 'Lobster', cursive;
+}
+
+.foot
+{
+    color: #401014
+}
+
+.foot:hover
+{
+    color: #F29727;
+
+}
+
+#foot
+{
+    border-radius: 20px;
+}
+
